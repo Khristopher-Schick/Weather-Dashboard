@@ -6,7 +6,6 @@
     })
     .then(data => {
       console.log();
-    //   document.querySelector(".timeDisplay").innerHTML = `Time: ${time}`;
 
     });
   };
